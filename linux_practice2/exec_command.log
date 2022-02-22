@@ -1,0 +1,100 @@
+    1  cd /root
+    2  ls
+    3  cd  server_lesson
+    4  ls
+    5  cd linux_practice2
+    6  vi .gitignore
+    7  cd ../
+    8  git add .
+    9  git status
+   10  git reset
+   11  git status
+   12  cd linux_practice2
+   13  vi .gitignore
+   14  cd ../
+   15  git status
+   16  git add .
+   17  git status
+   18  git reset
+   19  git status
+   20  cd linux_practice2
+   21* 
+   22  cd ../
+   23  git add .
+   24  git status
+   25  cd linux_practice2
+   26  vi .gitignore
+   27  cd ../
+   28  git reset
+   29  git status
+   30  git add .
+   31  git status
+   32  cd linux_practice2
+   33  ls -a
+   34  rm .gitignore.swo
+   35  ls -a
+   36  rm .gitignore.swp
+   37  vi git ignore
+   38  ls -a
+   39  vi .gitignore
+   40  cd ../
+   41  git reset
+   42  git add .
+   43  git status
+   44  ls
+   45  cd linux_practice2
+   46  vi .gitignore
+   47  cd ../
+   48  git reset
+   49  git add .
+   50  git status
+   51  history 300
+   52  cd linux_practice2
+   53  cd ../
+   54  touch linux_practice2/exec_command.log
+   55  history 300 exec_command.log
+   56  ld
+   57  ls
+   58  cd linux_practice2
+   59  history 300 exec_command.log
+   60* his
+   61  cd exec_command.log
+   62  ls exec_command.log
+   63  cd exec_command.log
+   64  history 300 -w exec_command.log
+   65  history -r ãƒ•ã‚exec_command.log
+   66  ls
+   67  ls exec_command.log
+   68  history -r ãexec_command.log
+   69  history 300 exec_command.log
+   70  vi exec_command.log
+   71  history 300 -w exec_command.log
+   72  history 300 -w linux_practice2/exec_command.log
+   73  history 300
+   74  history 300 -a exec_command.log
+   75  history -a exec_command.log
+   76  ls exec_command.log
+   77  vi exec_command.log
+   78  vi exec_command.log
+   79  history
+   80  vi exec_command.log
+   81  history 300 -w exec_command.log
+   82  history 300
+   83  history 300 -a exec_command.log
+   84* 
+   85  ls
+   86  vi exec_command.log
+   87  history -a exec_command.log 300
+   88  ls
+   89  vi exec_command.log
+   90  history 300 -a exec_command.log 300
+   91  mr exec_command.log
+   92  rm exec_command.log
+   93  ls -a
+   94  touch linux_practice2/exec_command.log
+   95  cd ../
+   96  touch linux_practice2/exec_command.log
+   97  ls
+   98  cd linux_practice2
+   99  ls
+  100  history 300 > exec_command.log
